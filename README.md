@@ -1,5 +1,5 @@
-<img src="https://user-images.githubusercontent.com/77143046/137628234-9baf036d-c32c-4139-a32a-33dae4c2417e.jpg" alt="Eru-Bot" border="0"></a>
-# Eru-Bot Hosting/Deploy Guides
+<img src="https://user-images.githubusercontent.com/77143046/137628234-9baf036d-c32c-4139-a32a-33dae4c2417e.jpg" alt="999-Botto" border="0"></a>
+# 999-Botto Hosting/Deploy Guides
 
 ## 💵 [Self-Hosting-Guide](https://github.com/Oreki-san/Eru-Guide/blob/main/Self-Hosting-Guide.md)
 ## 💴 [Heroku-Deploy-Guide](https://github.com/Oreki-san/Eru-Guide/blob/main/Heroku-Deploy-Guide.md) 
